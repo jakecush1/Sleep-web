@@ -16,10 +16,6 @@ Katherine
 
 Josh
 - sleep affecting cognitive function
-    - mental well affects sleep
-        - stress
-        - noise levels
-        - anxiety
     - affecting memory
     - ability to remember and learn
     - overthinking affecting sleep, like stress
@@ -42,8 +38,12 @@ Jake
         - adhd beds
         - anti psychotics
         - anti depressants
-    - caffeine
-    - weed
-    - alcohol
-    - melatonin
+        - caffeine
+        - weed
+        - alcohol
+        - melatonin
+    - mental well affects sleep
+        - stress
+        - noise levels
+        - anxiety
 
