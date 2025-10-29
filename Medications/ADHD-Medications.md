@@ -1,9 +1,10 @@
+TBD -Jake
 ### stimulants: methylphenidate, amphetamines; non-stimulants
 
 **What the literature shows / mechanisms**
 
-- Stimulant ADHD medications increase central catecholamines (dopamine, norepinephrine) which raise arousal and can delay sleep onset and reduce sleep efficiency. [PMC+1](https://pmc.ncbi.nlm.nih.gov/articles/PMC3441938/?utm_source=chatgpt.com)
-    
+- Stimulant ADHD medications increase central catecholamines (dopamine, norepinephrine) which raise arousal and can delay sleep onset and reduce sleep efficiency. [PMC+1](https://pmc.ncbi.nlm.nih.gov/articles/PMC3441938/)
+
 - However, in some adults/children, **improved daytime symptom control** (less bedtime hyperactivity or resistance) can paradoxically improve sleep for some patients — results are heterogeneous and dose/timing dependent. [Pediatrics+1](https://publications.aap.org/pediatrics/article/136/6/1144/77091/Stimulant-Medications-and-Sleep-for-Youth-With?utm_source=chatgpt.com)
     
 

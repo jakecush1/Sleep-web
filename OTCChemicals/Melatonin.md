@@ -1,3 +1,7 @@
+TBD - Jake
+
+Melatonin is a common OTC drug used to help treat insomnia or onset sleep latency.
+
 **What the literature shows / mechanisms**
 
 - Melatonin is a chronobiotic (shifts circadian timing) and mild hypnotic. It is most effective for circadian rhythm disorders (jet lag, delayed sleep phase) and can modestly shorten sleep onset latency in some patients; evidence for large benefits in chronic insomnia is mixed. Effects depend on dose, formulation, and timing. [PubMed+1](https://pubmed.ncbi.nlm.nih.gov/36179487/?utm_source=chatgpt.com)

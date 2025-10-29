@@ -1,3 +1,4 @@
+Mental health and environment can affect [Sleep Quality](<Measures of Sleep Quality>).  
 ## Mental-health / environmental factors
 
 - **[Stress](MentalHealth/Stress) (and sleep reactivity)** — narrative/systematic reviews on how stress and sleep reactivity cause/maintain insomnia; bidirectional links. [PMC+1](https://pmc.ncbi.nlm.nih.gov/articles/PMC7045300/?utm_source=chatgpt.com)

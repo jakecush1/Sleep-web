@@ -1,3 +1,5 @@
+TBD - Jake
+
 **What the literature shows / mechanisms**
 
 - Caffeine antagonizes adenosine receptors → increases arousal and delays homeostatic sleep pressure, reducing slow-wave sleep and increasing light sleep. Effects are dose and timing dependent, with meaningful effects many hours after intake. [PubMed+1](https://pubmed.ncbi.nlm.nih.gov/36870101/?utm_source=chatgpt.com)

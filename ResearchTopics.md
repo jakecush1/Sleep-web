@@ -39,7 +39,11 @@ Discuss how different aspects of life and actions can affect your sleep quality.
 
 Jake
 Focus on things which affect sleep patterns and quality. Things like substances, eating, and mental health.  Can affect positively or negatively.  Sleeping medications, stimulants..
+
+
 - Substances affecting sleep
+- White noise / listneing podcasts / listening to music
+	- talking how it helps you fall asleep
     - medication
         - adhd beds
         - anti psychotics
@@ -48,8 +52,27 @@ Focus on things which affect sleep patterns and quality. Things like substances,
         - weed
         - alcohol
         - melatonin
-    - mental well affects sleep
-        - stress
-        - noise levels
-        - anxiety
+    - wellness apps - daylio journal
+	    - mental well affects sleep
+	        - stress
+	        - noise levels
+	        - anxiety
 
+
+Ideas
+
+Need to pivot to make these ideas relate to computaional measures.  We cannot talk about drugs affecting sleep, but if it were connected in a different relevant way.  Like diet on its own is not connected,  but if youre useing a diet app, or wellness app, which tracks diet and tracks sleep this would be relevant.  
+
+
+Wakefulness after sleep onset watch
+sleep tracking watch device
+
+apps which help sleep
+- tracking stuff
+- eating 
+- exercise
+
+being measured by a computer or affected by a computer
+
+app - sleep timer
+- sleep duration

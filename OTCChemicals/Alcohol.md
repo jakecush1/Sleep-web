@@ -1,3 +1,5 @@
+TBD - Jake
+
 **What the literature shows / mechanisms**
 
 - Alcohol is a sedative (GABAergic effects) that can **shorten sleep onset** but disrupts sleep architecture — increases slow-wave sleep in the first half of the night and suppresses REM, often followed by REM rebound and fragmentation in the second half. Overall sleep continuity is worsened. [PMC+1](https://pmc.ncbi.nlm.nih.gov/articles/PMC3987855/?utm_source=chatgpt.com)

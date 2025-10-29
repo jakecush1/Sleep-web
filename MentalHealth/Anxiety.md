@@ -1,3 +1,5 @@
+TBD - Jake
+
 **What the literature shows / mechanisms**
 
 - Stress and emotional arousal increase cognitive and physiological arousal (rumination, HPA axis activation), which elevates sleep reactivity and predisposes to insomnia. There is strong evidence for a **bidirectional** relationship: stress/anxiety worsen sleep, and poor sleep worsens anxiety/depression. [PMC+2PMC+2](https://pmc.ncbi.nlm.nih.gov/articles/PMC7045300/?utm_source=chatgpt.com)
