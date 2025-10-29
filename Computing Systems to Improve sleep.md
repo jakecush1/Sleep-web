@@ -1,0 +1,9 @@
+Many people struggle with sleeping, and in a world where we attempt to solve problems with technology, there is much technology to assist with sleep.  We have developed Sleep apnea machines to improve sleep for those who snore, or mouth breath, as we know this can poorly affect sleep.  
+
+There are [Mental Health Apps](<Mental Health Apps.md>) and Lifestyle Wellness Apps which track diet, exercise and well being which help sleep by analyzing and changing certain lifestyle habits.  We have developed technology to track sleep, and analyze our sleep-- smart watches, phones or specifically designed [[Measures of Sleep Quality#Wakefulness After Sleep Onset (WASO)|Wakefulness After Sleep Onset]] tracking watches.
+
+Many studies show that people with some mental health disorders often have worse sleeping patterns than those who do not.  Disorders like ADHD or Depression consistently consistently show worse sleeping patterns than patterns of neuro-convergent.  
+
+Poor sleep is both often a symptom of these conditions, but also a side effect of the medication taken to treat these disorders.  These medications work well for many people, but there are other less "prescribed" sleep strategies that have shown in study to work well for treating these sleep issues.  Some alternative sleep strategies work well for many people.  Like using [Sleep Noise](<Sound Enhancing Sleep.md>) to cover up noisy environments, or Monitoring [Blue Light](<Sleep Quality and Environment.md>) before bed.
+
+In the age of technology we are always seeing new trends of some app or some system to solve all of our answers.
