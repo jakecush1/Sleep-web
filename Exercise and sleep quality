@@ -54,4 +54,49 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC5483233/
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8276335/
 https://pmc.ncbi.nlm.nih.gov/articles/PMC5015038/
 
+AFTER MEETING 2:
 
+Article citations :
+Germain A, Wolfson M, Pulantara IW, Wallace ML, Nugent K, Mesias G, Clarke-Walper K, Quartana PJ, Wilk J. Prototyping Apps for the Management of Sleep, Fatigue, and Behavioral Health in Austere Far-Forward Environments: Development Study. J Med Internet Res. 2023 Aug 28;25:e40640. doi: 10.2196/40640. PMID: 37639304; PMCID: PMC10495854.
+
+Emerson M. Wickwire, Jacob Collen, Vincent F. Capaldi, Zhiwei Zhao, Scott G. Williams, Connie L. Thomas, Samson Z. Assefa, Jennifer S. Albrecht, Shuo Chen
+
+Germain A, Wolfson M, Pulantara IW, Wallace ML, Nugent K, Mesias G, Clarke-Walper K, Quartana PJ, Wilk J. Prototyping Apps for the Management of Sleep, Fatigue, and Behavioral Health in Austere Far-Forward Environments: Development Study. J Med Internet Res. 2023 Aug 28;25:e40640. doi: 10.2196/40640. PMID: 37639304; PMCID: PMC10495854.
+
+Sleep 
+
+Sleep quality and fatigue management are crucial for operational effectiveness in the military, 
+as people frequently face unpredictable schedules, high stress, and little rest. 
+Modern computational systems, which include mobile apps, wearables, and AI-based analytics, 
+are already being utilized to evaluate and optimize sleep in these stressful circumstances.
+
+Wickwire et al. (2024) found that by combining commercial wearable devices with smartphone sleep-tracking apps, 
+military troops were able to anticipate next-day weariness, cognitive performance, 
+and mood depending on the quality of their previous night's sleep. 
+These methods convert subjective relaxation into measurable, data-driven feedback that can be used to avoid burnout and stay prepared.
+
+Similarly, Germain et al. (2023) created a field-deployable program that uses wearable sensors to track tiredness 
+and shiftwork patterns during training sessions. 
+The software made real-time recommendations on sleep timing and recovery times, 
+demonstrating how computing systems may actively help soldiers control alertness in uncertain circumstances.
+
+Wickwire et al. (2024) conducted a complementary project at US military treatment facilities, 
+introducing a telemedicine sleep platform that synchronized wearable sleep data (e.g., Fitbit) with physician dashboards. 
+This enabled remote sleep assessment and targeted digital therapies, essentially transforming sleep monitoring into a scalable cognitive-health system.
+
+Collectively, these technologies demonstrate how computational sleep tracking is being used in military operations to protect both mental 
+and physical performance. By continuously measuring sleep duration, wakefulness after sleep onset (WASO), and circadian rhythm stability, 
+these technologies establish a direct link between biological recovery and decision-making capacity, demonstrating the potential of 
+computing for cognitive augmentation in high-stress, mission-critical settings.
+
+how the apps work:
+
+These methods evaluate sleep stages and wake periods by combining actigraphy (motion sensors), heart rate variability (HRV),
+and temperature data from wearable devices. The data is synced with smartphone apps or cloud platforms, where machine learning algorithms
+identify REM, light, and deep sleep. This data is used in military studies to forecast tiredness risk, allowing commanders to anticipate
+when alertness would fall.
+
+Computational sleep tracking systems are intended to maintain cognitive preparedness by sustaining attention, decision-making speed, 
+and emotional stability under operational stress. Poor sleep immediately lowers reaction time and working memory, 
+both of which are critical in high-stakes contexts such as military missions. 
+By continuously assessing these characteristics, these technologies allow for early treatments that maintain peak cognitive performance.
