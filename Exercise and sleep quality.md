@@ -65,7 +65,7 @@ Germain A, Wolfson M, Pulantara IW, Wallace ML, Nugent K, Mesias G, Clarke-Walpe
 
 Sleep 
 
-Sleep quality and fatigue management are crucial for operational effectiveness in the military, 
+[Sleep quality](./Sleep%20Quality.md#sleep-quality) and fatigue management are crucial for operational effectiveness in the military, 
 as people frequently face unpredictable schedules, high stress, and little rest. 
 Modern computational systems, which include mobile apps, wearables, and AI-based analytics, 
 are already being utilized to evaluate and optimize sleep in these stressful circumstances.
