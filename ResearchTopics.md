@@ -2,6 +2,10 @@ Web of research regarding various topics with umbrella topic of sleep
 
 Ideas
 
+CPAP data tracking
+Sleep hygiene
+
+
 Need to pivot to make these ideas relate to computaional measures.  We cannot talk about drugs affecting sleep, but if it were connected in a different relevant way.  Like diet on its own is not connected,  but if youre useing a diet app, or wellness app, which tracks diet and tracks sleep this would be relevant.  
 
 Wakefulness after sleep onset watch
