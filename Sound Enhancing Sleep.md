@@ -1,4 +1,4 @@
-There are many different apps out there that help falling asleep by listening to sound.  Some people like to listen to calming music, or podcast to help them fall asleep.  There are different frequencies and sounds which have become popular to help fall asleep.  Lots of research has been done on using various techniques to improve sleep.  One of the most popular techniques has become [Color Noise](https://www.nm.org/healthbeat/healthy-tips/what-noise-color-is-best-for-sleep).  Most people will either get an sleep app, or find a music streaming service to find these sounds.
+There are many different apps out there that help falling asleep by listening to sound.  Some people like to listen to calming music, or podcast to help them fall asleep.  There are different frequencies and sounds which have become popular to help fall asleep.  Lots of research has been done on using various techniques to improve sleep.  One of the most popular techniques has become [Color Noise](https://www.nm.org/healthbeat/healthy-tips/what-noise-color-is-best-for-sleep).  There are [Mental Wellness Apps](<Mental Health Apps.md>) designed for this purpose, most people will use one of these or a music streaming service. Insight Timer is an example of an app which offers guided meditations, affirmations and calming music, focusing on [[Sleep Interupters#Anxiety|reducing anxiety]].
 ## Color Noise
 "The color of noise refers to the distribution of its sound frequencies", according to [Northwestern Medicine](https://www.nm.org/healthbeat/healthy-tips/what-noise-color-is-best-for-sleep) and it is a technique that is becoming popular to assist in falling asleep.  It's especially popular among those who live in places where there is more noise, like urban areas.  Dr. Malkani, who specializes in [sleep studies]([https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=23422#publications](https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=23422#publications "https://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=23422#publications")), says "it is important to keep the volume just low enough to be audible, but not so high that it would cause arousal from sleep."
 
@@ -8,9 +8,10 @@ There are many different apps out there that help falling asleep by listening to
 		- Light sleepers
 		- Need help relaxing
 		- Have trouble falling asleep
+  
 - Pink Noise
 	- Pink noise contains all audible frequencies but is more powerful in the lower frequencies and less in the high ones.  This is supposed to sound softer and more natural than white noise, some say like the similar to the rustling of leaves, steady rainfall or ocean waves.  Its recommended for people who:
-		- 
+
 - Brown Noise
 	- Sometimes known as red noise has even greater emphasis on the lower frequencies than pink noise.  It works better at covering up noises like starting and stopping of furnace or air conditioner.  It's supposed to sound like heavy rainfall or a strong waterfall. It's best for people who:
 		- Have high anxiety or stress
