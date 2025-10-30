@@ -1,5 +1,5 @@
 
-[Research Study](https://www.science.org/doi/10.1126/science.8036518)
+**[Research Study](https://www.science.org/doi/10.1126/science.8036518)
 
 Many studies have been done on the effect that REM sleep has on overall cognitive abilities. One of these studies looked at how REM sleep helps perpetual learning. 
 

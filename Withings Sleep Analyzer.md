@@ -1,5 +1,5 @@
 
-[Research Study]()
+**[Research Study](https://jcsm.aasm.org/doi/10.5664/jcsm.9168)
 
 The Withings Sleep Analyzer is a thin sensor you place under your mattress that tracks your sleep quality throughout the night. It has features such as heart rate tracking, snore detection, and overall sleep analysis. All of this information is then easily accessed though an app on your smartphone.
 
