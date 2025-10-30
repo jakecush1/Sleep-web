@@ -15,16 +15,14 @@ and
 - pain 
 - medicine 
 
+This is not very computational in nature, but seems near-ubiquitous when studying sleep. 
+
 # Polysomnography
 Polysomnography, often called a "sleep study", is an objective measure of sleep quality. This requires much greater access to data than one would normally have available, including brain waves, blood oxygen levels, heart rate, as well as eye and leg movements. 
 
 It is a common means to diagnose [[Sleep Disorders]] such as sleep apnea. 
 
-While curtial to diagnosis, polysomnographic studies are time-consuming and expensive. 
-
-
-Athens Insomnia Scale (AIS), Insomnia Severity Index (ISI), Mini-Sleep Questionnaire (MSQ), Jenkins Sleep Scale (JSS), Leeds Sleep Evaluation Questionnaire (LSEQ), SLEEP-50 Questionnaire, and Epworth Sleepiness Scale (ESS).
-
+While crucial to diagnosis, polysomnographic studies are time-consuming and expensive. 
 
 # Wakefulness After Sleep Onset (WASO)
 Measured by actigraphy, a wearable sleep test which measures movement during sleep usually over the course of several weeks. 
@@ -34,4 +32,4 @@ The following image shows an Actiwatch Spectrum 2, a device used to measure slee
 ![an actigraphy measurement device and an actogram](https://www.researchgate.net/profile/Eun-Yeon-Joo/publication/288688548/figure/fig1/AS:502062548873216@1496712447626/Actigraphy-and-actogram-of-a-patient-with-disturbed-sleep-wake-pattern-A-patient-is-a-22.png)
 
 # Sleep Latency 
-Usually measured by diary 
+Sleep latency is the time taken to enter sleep after setting out to sleep ("turning the lights out"). Apparently it is usually measured by diary, but we could use a computer! An app such as [Sleep Cycle](https://sleepcycle.com/) records when a user sleep and wakes, and can also discern when they actually enter sleep. 
