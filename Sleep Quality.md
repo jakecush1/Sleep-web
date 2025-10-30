@@ -1,4 +1,4 @@
-%% Summary node for summary %%
+%% Summary node for summary, feel free to add to it %%
 
 Several well-developed methods exist to [[Measures of Sleep Quality|measure sleep quality]]. Previous work relied on questionnaires and human observance, but computer technology allows us to collect a larger body of data in greater detail than before. Devices to measure sleep activity are discussed, as well as applications for general-purpose devices such as one's phone. 
 
