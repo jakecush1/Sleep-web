@@ -1,4 +1,3 @@
-Here we can write an grand report on all of our topics, acting as an index, linking to all sub topics, which can then link to sub sub topics
 
 [[Computer Systems to Improve Sleep]]
 [[Exercise and sleep quality]]
