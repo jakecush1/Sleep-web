@@ -70,10 +70,8 @@ as people frequently face unpredictable schedules, high stress, and little rest.
 Modern computational systems, which include mobile apps, wearables, and AI-based analytics, 
 are already being utilized to evaluate and optimize sleep in these stressful circumstances.
 
-Wickwire et al. (2024) found that by combining commercial wearable devices with smartphone sleep-tracking apps, 
-military troops were able to anticipate next-day weariness, cognitive performance, 
-and mood depending on the quality of their previous night's sleep. 
-These methods convert subjective relaxation into measurable, data-driven feedback that can be used to avoid burnout and stay prepared.
+Wickwire et al. (2024) found that by combining commercial wearable devices with smartphone sleep-tracking apps, military troops were able to anticipate next-day weariness, cognitive performance, and mood depending on the quality of their previous night's sleep.
+[This article](https://www.nature.com/articles/s44323-024-00008-y) explores how wearable devices and sleep-tracking apps can anticipate next-day weariness, cognitive performance, and mood in military personnel.
 
 Similarly, Germain et al. (2023) created a field-deployable program that uses wearable sensors to track tiredness 
 and shiftwork patterns during training sessions. 
