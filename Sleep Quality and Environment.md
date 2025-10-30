@@ -1,28 +1,27 @@
 One's [[Sleep Quality]] is greatly affected by the environment one chooses to sleep in. The term "environment" can mean a lot of things, though, and for this document we focus on qualities of one's environment that are readily changed or measured by computers. 
 
 # Light 
-Explain light therapy here pls 
+Cho et al. [Let there be no light: the effect of bedside light on sleep quality and background electroencephalographic rhythms](https://www.sciencedirect.com/science/article/pii/S1389945713011350) investigates the effect of bedside lighting on sleep quality. The authors measured sleep quality using [[Measures of Sleep Quality#Polysomnography|polysomnography]] and spectral analysis during rapid-eye-movement epochs. Two sessions were conducted for each of the ten participants, one with the lights off and one with them on. It was found that sleeping with the light on resulted in a more shallow sleep and decreased sleep quality (among other health issues). 
 
-[This study](https://www.sciencedirect.com/science/article/abs/pii/S1087079215001136) shows that light therapy is an effective means to treat sleep problems, but that it doesn't have too pronounced of an impact. Paywall warning... again... don't you just love paywalls?? 
+Van Maanen et al. [The effects of light therapy on sleep problems: A systematic review and meta-analysis](https://www.sciencedirect.com/science/article/pii/S1087079215001136) concludes that light therapy is an effective means to treat sleep problems, but that it doesn't have too pronounced of an impact. Paywall warning... again... don't you just love paywalls?? 
 
-There is also the effect of [[Sleep Quality and Blue Light|blue light]], for which a separate node is written. 
+There are also the effect of [[Sleep Quality and Blue Light|blue light]], for which a separate node is written. 
 
 # Temperature 
-Now [this one](https://www.sciencedirect.com/science/article/abs/pii/S2352721817302346)'s really cool! Some researchers stuck elderly people in temperature-controlling thermosuits to decrease nocturnal wakefulness. It works in younger people, too, but to a reduced degree. I would love to read more but this paper is paywalled so I cannot. It may be useful if you're looking for references though. 
+Bjorvatn et al. [The association between insomnia and bedroom habits and bedroom characteristics: an exploratory cross-sectional study of a representative sample of adults](https://www.sciencedirect.com/science/article/pii/S2352721817302346) is really cool! Some researchers stuck elderly people in temperature-controlling thermosuits to decrease nocturnal wakefulness. It works in younger people too, but to a reduced degree. I would love to read more but this paper is paywalled so I cannot. It may be useful if you're looking for references though. 
 
 # Noise 
 Noise is a factor that results in elevated levels of sleep disturbances, particularly in urban areas. 
 
+Zaharna et al. [Sleep, noise and health](https://journals.lww.com/nohe/fulltext/2010/12470/sleep,_noise_and_health__review.3.aspx) reviews the effects of sleep deprivation, sleep interruption, and more relevantly the effects of noise on sleep. Sleep disturbances are proportional to the amount of noise experienced. 
+
 ## White Noise 
-White noise is [found](https://pubmed.ncbi.nlm.nih.gov/34049045/) to improve sleep quality among individuals bothered by urban noise. In this particular study, sleep quality was measured by [[Measures of Sleep Quality#Wakefulness After Sleep Onset (WASO)|Wakefulness After Sleep Onset]] and [[Measures of Sleep Quality#Sleep Latency|Sleep Latency]]. 
+Ebben et al. [The effects of white noise on sleep and duration in individuals living in a high noise environment in New York City](https://pubmed.ncbi.nlm.nih.gov/34049045/) finds white noise to improve sleep quality among individuals bothered by urban noise. In this particular study, sleep quality was measured by [[Measures of Sleep Quality#Wakefulness After Sleep Onset (WASO)|Wakefulness After Sleep Onset]] and [[Measures of Sleep Quality#Sleep Latency|Sleep Latency]]. 
+
+Contrary to this, Riedy et al. [Noise as a sleep aid: A systematic review](https://www.sciencedirect.com/science/article/pii/S1087079220301283) finds that the use of noise as a sleep aid can produce wildly differing results (helpful or harmful). 
 
 # Mattress Firmness 
-Mattress architecture is serous business! This [study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12071755/) compares the sleep outcomes of soft, medium, and firm mattresses using [[Measures of Sleep Quality#Polysomnography|polysomnography]]. 
-
-I am not sure how to study this with computers! 
-
-Indeed, something as simple as [[Sleep Quality and Environment#Mattress Firmness|the firmness of one's mattress]] can have a drastic impact on [back pain](https://doi.org/10.1186/s41606-022-00073-x) throughout one's day. 
-
+Mattress architecture is serous business! Hu et al. [The Effect of Mattress Firmness on Sleep Architecture and PSG Characteristics](https://pmc.ncbi.nlm.nih.gov/articles/PMC12071755/) compares the sleep outcomes of soft, medium, and firm mattresses using [[Measures of Sleep Quality#Polysomnography|polysomnography]]. Beyond the means of measurement, this does not have much to do with computers. 
 
 # Familiarity 
 Again, not so related to computers so idk about this one. It'd be fun to know through! 
