@@ -24,7 +24,7 @@ Links nutritional behavior to neurocognitive regulation of sleep.Caffeine timing
 
 | Key Idea | Example Finding |
 | --------- | ---------------- |
-| Eating close to bedtime disrupts circadian rhythm and reduces REM sleep. | Late meals (<2 h before bed) increase wake after sleep onset ([Wehrens et al., 2017](https://www.cell.com/current-biology/fulltext/S0960-9822(17)30628-9)). |
+| Eating close to bedtime disrupts circadian rhythm and reduces [REM sleep](./REM%20Sleep.md). | Late meals (<2 h before bed) increase wake after sleep onset ([Wehrens et al., 2017](https://www.cell.com/current-biology/fulltext/S0960-9822(17)30628-9)). |
 | Caffeine delays melatonin release. | Caffeine 3 h before bedtime delays circadian timing by ~40 min ([Burke et al., 2015](https://www.science.org/doi/10.1126/scitranslmed.aac5125)). |
 | Nutrient composition affects sleep. | High-carb meals reduce latency but increase nighttime awakenings ([Afaghi et al., 2007](https://academic.oup.com/ajcn/article/85/2/426/4633137)). |
 
