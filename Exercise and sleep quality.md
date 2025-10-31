@@ -1,7 +1,7 @@
 Exercise and Sleep Quality :
 
 Highly researched, connects physical behavior to cognitive recovery.
-Fits perfectly with “computing systems for cognitive augmentation,” because wearables and apps (Fitbit, Oura, Apple Watch) quantify both exercise and sleep.
+Fits perfectly with “computing systems for cognitive augmentation,” because wearables and apps (Fitbit, [[Oura Ring Gen 3]], Apple Watch) quantify both exercise and sleep.
 
 | Key Idea                                                                     | Example Finding                                                                                                             |
 | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
