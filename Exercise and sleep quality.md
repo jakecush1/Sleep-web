@@ -21,11 +21,13 @@ Myllymäki, T. et al. (2011). *Effects of exercise intensity on sleep quality in
 Naps are a mini cognitive reset — great to explore short-term augmentation (memory, alertness).  
 You can link it to systems for learning enhancement and attention management.
 
-| Key Idea | Example Finding |
-| --------- | ---------------- |
-| Short naps enhance alertness and memory consolidation. | 20-min power naps improved performance and mood (Brooks & Lack, 2006). |
-| Long naps or late-day naps reduce nighttime sleep quality. | Naps > 60 min disrupt sleep architecture (Milner & Cote, 2009). |
-| Naps improve declarative memory. | Post-learning naps increase hippocampal replay (Mednick et al., 2003). |
+| Key Idea                                         | Example Finding                                                                                                                            |
+| ------------------------------------------------ | -----------------------------------------------------------------------------------------------------------------------------------------  |
+| Short naps enhance alertness and memory consolidation. | 20-min power naps improved performance and mood ([Brooks & Lack, 2006](https://academic.oup.com/sleep/article-pdf/29/6/831/13663418/sleep-29-6-831.pdf)). |
+| Long naps or late-day naps reduce nighttime sleep quality. | Naps > 60 min disrupt sleep architecture ([Milner & Cote, 2009](https://pubmed.ncbi.nlm.nih.gov/19645971/)).                               |
+| Naps improve declarative memory.                 | Post-learning naps increase hippocampal replay ([Mednick et al., 2003](https://pubmed.ncbi.nlm.nih.gov/12819785/)).                        |
+
+
 
 **Citations:**  
 Mednick, S. C. et al. (2003). *Sleep-dependent learning: A nap is as good as a night.* *Nature Neuroscience* 6(7).  
