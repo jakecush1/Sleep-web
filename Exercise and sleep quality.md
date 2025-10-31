@@ -85,9 +85,8 @@ By continuously measuring sleep duration, wakefulness after sleep onset (WASO), 
 ---
 
 # How the Apps Work
-
-These methods evaluate sleep stages and wake periods by combining actigraphy (motion sensors), heart rate variability (HRV),  
-and temperature data from wearable devices. The data is synced with smartphone apps or cloud platforms,  
+These methods evaluate sleep stages and wake periods by combining actigraphy (motion sensors), heart rate variability (HRV), and temperature data from wearable devices ([Withings Sleep Analyzer](./Withings%20Sleep%20Analyzer.md)).
+The data is synced with smartphone apps or cloud platforms,  
 where machine learning algorithms identify REM, light, and deep sleep.  
 This data is used in military studies to forecast tiredness risk, allowing commanders to anticipate when alertness would fall.
 
