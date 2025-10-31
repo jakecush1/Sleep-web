@@ -66,8 +66,8 @@ Afaghi, A. et al. (2007). *High-glycemic-index carbohydrate meals shorten sleep 
 
 [Sleep quality](./Sleep%20Quality%20and%20Blue%20Light.md) and fatigue management are crucial for operational effectiveness in the military,  
 as people frequently face unpredictable schedules, high stress, and little rest.  
-Modern computational systems, which include mobile apps, wearables, and AI-based analytics,  
-are already being utilized to evaluate and optimize sleep in these stressful circumstances.
+Modern computational systems, which include [mobile and mental health apps](./Mental%20Health%20Apps.md),
+wearables, and AI-based analytics, are already being utilized to evaluate and optimize sleep in these stressful circumstances.
 
 Wickwire et al. (2024) found that by combining commercial wearable devices with smartphone sleep-tracking apps, military troops were able to anticipate next-day weariness, cognitive performance, and mood depending on the quality of their previous night's sleep.  
 [This article](https://www.nature.com/articles/s44323-024-00008-y) explores how wearable devices and sleep-tracking apps can anticipate next-day weariness, cognitive performance, and mood in military personnel.
