@@ -25,6 +25,3 @@ Contrary to this, Riedy et al. [Noise as a sleep aid: A systematic review](https
 # Mattress Firmness 
 Mattress architecture is serous business! Hu et al. [The Effect of Mattress Firmness on Sleep Architecture and PSG Characteristics](https://pmc.ncbi.nlm.nih.gov/articles/PMC12071755/) compares the sleep outcomes of soft, medium, and firm mattresses using [[Measures of Sleep Quality#Polysomnography|polysomnography]]. Beyond the means of measurement, this does not have much to do with computers. 
 
-# Familiarity 
-Again, not so related to computers so idk about this one. It'd be fun to know through! 
-
