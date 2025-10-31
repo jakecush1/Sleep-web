@@ -92,4 +92,5 @@ This data is used in military studies to forecast tiredness risk, allowing comma
 
 Computational sleep tracking systems are intended to maintain cognitive preparedness by sustaining attention, decision-making speed,  
 and emotional stability under operational stress. Poor sleep immediately lowers reaction time and working memory — both critical in high-stakes contexts such as military missions.  
-By continuously assessing these characteristics, these technologies allow for early interventions that maintain peak cognitive performance.
+By continuously assessing these characteristics, these technologies allow for early interventions that maintain peak cognitive performance ([Sound Enhancing Sleep](./Sound%20Enhancing%20Sleep.md)).
+
