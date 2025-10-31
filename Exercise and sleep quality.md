@@ -5,9 +5,10 @@ Fits perfectly with “computing systems for cognitive augmentation,” because 
 
 | Key Idea | Example Finding |
 | --------- | ---------------- |
-| Regular moderate exercise improves sleep efficiency and slow-wave sleep. | Aerobic exercise (30 min, 3×/week) increased total sleep time and sleep efficiency in older adults (King et al., 1997). |
-| Timing matters. | Evening vigorous workouts can delay sleep onset, but morning exercise stabilizes circadian rhythm (Myllymäki et al., 2011). |
-| Exercise reduces insomnia symptoms. | Individuals with insomnia saw shorter sleep latency after 16 weeks of moderate aerobic exercise (Reid et al., 2010). |
+| Regular moderate exercise improves sleep efficiency and slow-wave sleep. | Aerobic exercise (30 min, 3×/week) increased total sleep time and sleep efficiency in older adults ([King et al., 1997](https://jamanetwork.com/journals/jama/article-abstract/416497)). |
+| Timing matters. | Evening vigorous workouts can delay sleep onset, but morning exercise stabilizes circadian rhythm ([Myllymäki et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21443960/)). |
+| Exercise reduces insomnia symptoms. | Individuals with insomnia saw shorter sleep latency after 16 weeks of moderate aerobic exercise ([Reid et al., 2010](https://academic.oup.com/sleep/article/33/4/541/2454461)). |
+
 
 **Citations:**  
 King, A. C. et al. (1997). *Effects of moderate-intensity exercise on sleep quality in older adults.* JAMA.  
@@ -43,9 +44,10 @@ Caffeine timing and late eating have measurable, quantifiable effects — ideal 
 
 | Key Idea | Example Finding |
 | --------- | ---------------- |
-| Eating close to bedtime disrupts circadian rhythm and reduces REM sleep. | Late meals (<2 h before bed) increase wake after sleep onset (Wehrens et al., 2017). |
-| Caffeine delays melatonin release. | Caffeine 3 h before bedtime delays circadian timing by ~40 min (Burke et al., 2015). |
-| Nutrient composition affects sleep. | High-carb meals reduce latency but increase nighttime awakenings (Afaghi et al., 2007). |
+| Eating close to bedtime disrupts circadian rhythm and reduces REM sleep. | Late meals (<2 h before bed) increase wake after sleep onset ([Wehrens et al., 2017](https://www.cell.com/current-biology/fulltext/S0960-9822(17)30628-9)). |
+| Caffeine delays melatonin release. | Caffeine 3 h before bedtime delays circadian timing by ~40 min ([Burke et al., 2015](https://www.science.org/doi/10.1126/scitranslmed.aac5125)). |
+| Nutrient composition affects sleep. | High-carb meals reduce latency but increase nighttime awakenings ([Afaghi et al., 2007](https://academic.oup.com/ajcn/article/85/2/426/4633137)). |
+
 
 **Citations:**  
 Burke, T. M. et al. (2015). *Caffeine effects on human circadian timing.* *Science Translational Medicine* 7(305).  
