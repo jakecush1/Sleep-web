@@ -10,14 +10,6 @@ Fits perfectly with “computing systems for cognitive augmentation,” because 
 | Timing matters. | Evening vigorous workouts can delay sleep onset, but morning exercise stabilizes circadian rhythm ([Myllymäki et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21443960/)). |
 | Exercise reduces insomnia symptoms. | Individuals with insomnia saw shorter sleep latency after 16 weeks of moderate aerobic exercise ([Reid et al., 2010](https://academic.oup.com/sleep/article/33/4/541/2454461)). |
 
-
-**Citations:**  
-King, A. C. et al. (1997). *Effects of moderate-intensity exercise on sleep quality in older adults.* JAMA.  
-Reid, K. J. et al. (2010). *Aerobic exercise improves self-reported sleep and quality of life in older adults with insomnia.* *Sleep* 33(4).  
-Myllymäki, T. et al. (2011). *Effects of exercise intensity on sleep quality in healthy men.* *Physiology & Behavior.*
-
----
-
 # Cognitive Functions and Naps
 
 Naps are a mini cognitive reset — great to explore short-term augmentation (memory, alertness).  
@@ -29,15 +21,6 @@ You can link it to systems for learning enhancement and attention management.
 | Long naps or late-day naps reduce nighttime sleep quality. | Naps > 60 min disrupt sleep architecture ([Milner & Cote, 2009](https://pubmed.ncbi.nlm.nih.gov/19645971/)).                               |
 | Naps improve declarative memory.                 | Post-learning naps increase hippocampal replay ([Mednick et al., 2003](https://pubmed.ncbi.nlm.nih.gov/12819785/)).                        |
 
-
-
-**Citations:**  
-Mednick, S. C. et al. (2003). *Sleep-dependent learning: A nap is as good as a night.* *Nature Neuroscience* 6(7).  
-Brooks, A., & Lack, L. (2006). *A brief afternoon nap following nocturnal sleep restriction.* *Sleep* 29(6).  
-Milner, C. E., & Cote, K. A. (2009). *Benefits of napping: Psychological and physiological effects.* *Progress in Brain Research* 185.
-
----
-
 # Food and Beverages Related to Sleep
 
 Links nutritional behavior to neurocognitive regulation of sleep.  
@@ -48,19 +31,6 @@ Caffeine timing and late eating have measurable, quantifiable effects — ideal 
 | Eating close to bedtime disrupts circadian rhythm and reduces REM sleep. | Late meals (<2 h before bed) increase wake after sleep onset ([Wehrens et al., 2017](https://www.cell.com/current-biology/fulltext/S0960-9822(17)30628-9)). |
 | Caffeine delays melatonin release. | Caffeine 3 h before bedtime delays circadian timing by ~40 min ([Burke et al., 2015](https://www.science.org/doi/10.1126/scitranslmed.aac5125)). |
 | Nutrient composition affects sleep. | High-carb meals reduce latency but increase nighttime awakenings ([Afaghi et al., 2007](https://academic.oup.com/ajcn/article/85/2/426/4633137)). |
-
-
-**Citations:**  
-Burke, T. M. et al. (2015). *Caffeine effects on human circadian timing.* *Science Translational Medicine* 7(305).  
-Wehrens, S. M. T. et al. (2017). *Meal timing regulates the human circadian system.* *Current Biology* 27(12).  
-Afaghi, A. et al. (2007). *High-glycemic-index carbohydrate meals shorten sleep onset.* *Am J Clinical Nutrition* 85(2).
-
-**Article links:**  
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC5483233/  
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC8276335/  
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC5015038/
-
----
 
 # Sleep
 
@@ -81,8 +51,6 @@ This enabled remote sleep assessment and targeted digital therapies, essentially
 
 Collectively, these technologies demonstrate how computational sleep tracking is being used in military operations to protect both mental and physical performance.  
 By continuously measuring sleep duration, wakefulness after sleep onset (WASO), and circadian rhythm stability, these technologies establish a direct link between biological recovery and decision-making capacity, demonstrating the potential of computing for cognitive augmentation in high-stress, mission-critical settings.
-
----
 
 # How the Apps Work
 These methods evaluate sleep stages and wake periods by combining actigraphy (motion sensors), heart rate variability (HRV), and temperature data from wearable devices ([Withings Sleep Analyzer](./Withings%20Sleep%20Analyzer.md)).
