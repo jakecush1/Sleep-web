@@ -8,7 +8,9 @@ Van Maanen et al. [The effects of light therapy on sleep problems: A systematic 
 There are also the effect of [[Sleep Quality and Blue Light|blue light]], for which a separate node is written. 
 
 # Temperature 
-Bjorvatn et al. [The association between insomnia and bedroom habits and bedroom characteristics: an exploratory cross-sectional study of a representative sample of adults](https://www.sciencedirect.com/science/article/pii/S2352721817302346) is really cool! Some researchers stuck elderly people in temperature-controlling thermosuits to decrease nocturnal wakefulness. It works in younger people too, but to a reduced degree. I would love to read more but this paper is paywalled so I cannot. It may be useful if you're looking for references though. 
+Okamoto-Mizuno et al. [Effects of thermal environment on sleep and circadian rhythm](https://pmc.ncbi.nlm.nih.gov/articles/PMC3427038/) finds that the "effects of heat or cold exposure are increased wakefulness and decreased [[REM Sleep|rapid eye movement sleep]] and slow wave sleep." Sleep is highly reliant on thermoregulation in humans, but being too cold may have a greater influence over sleep than being too warm. 
+
+Raymann et al. [Skin deep: enhanced sleep depth by cutaneous temperature manipulation](https://academic.oup.com/brain/article/131/2/500/407617)  is really cool! Some researchers stuck elderly people in temperature-controlling thermosuits to decrease nocturnal wakefulness. It works in younger people too, but to a reduced degree. 
 
 # Noise 
 Noise is a factor that results in elevated levels of sleep disturbances, particularly in urban areas. 
